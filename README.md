@@ -4,26 +4,26 @@ Here's a bit about me 💛
 
 I'm a padawan beginning my journey as a Front-End Developer :smile:
 
-#### :books: Currently studying:
+#### :telescope: Currently studying:
 
-- Html/css
-- Bootstrap
-- JavaScript
-- React / Nextjs :hammer_and_pick:
-- Design UI / UX :art:
+- Html/css :milky_way:
+- Bootstrap :milky_way:
+- JavaScript :milky_way:
+- React / Nextjs :milky_way:
+- Design UI / UX :milky_way:
  
 
 #### :palm_tree: In my free time I like to:
 
-- Read books :book:
-- Play games :video_game:
-- Code :computer:
-- Draw and paint :pen:
-- Ride a bike :bike:
+- Code :computer: :purple_heart:
+- Read books :books:
+- Play games :video_game: :space_invader:
+- Draw and paint :pen: :art:
+- Ride a bike :bicyclist:
 - Watch tv series & movies :tv:
-- Listen to music :headphones:
+- Listen to music :headphones: :musical_note:
 
-### Feel free to add me :wink:
+### Feel free to contact me :wink:
 
 ### Other places you can add me:
 <a href="https://www.linkedin.com/in/laissbarreto/">
