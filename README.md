@@ -14,7 +14,7 @@ I'm a padawan beginning my journey as a Front-End Developer :smile:
 - Design UI / UX :milky_way:
  
 
-#### :palm_tree: In my free time I like to:
+#### :palm_tree: My hobbies:
 
 - Code :computer: :purple_heart:
 - Read books :books:
@@ -24,9 +24,9 @@ I'm a padawan beginning my journey as a Front-End Developer :smile:
 - Watch tv series & movies :tv:
 - Listen to music :headphones: :musical_note:
 
-### Feel free to add me :wink:
+### Feel free to add me! :wink:
 
-### Other places you can contact me:
+### 📫 Other places you can contact me:
 <a href="https://www.linkedin.com/in/laissbarreto/">
 <img align ="center" alt="Linkedin de Laís Barreto" height="35" width="35" src="https://image.flaticon.com/icons/png/128/145/145807.png">
 </a>
