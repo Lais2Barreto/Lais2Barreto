@@ -23,9 +23,9 @@ I'm a padawan beginning my journey as a Front-End Developer :smile:
 - Watch tv series & movies :tv:
 - Listen to music :headphones: :musical_note:
 
-### Feel free to contact me :wink:
+### Feel free to add me :wink:
 
-### Other places you can add me:
+### Other places you can contact me:
 <a href="https://www.linkedin.com/in/laissbarreto/">
 <img align ="center" alt="Linkedin de Laís Barreto" height="35" width="35" src="https://image.flaticon.com/icons/png/128/145/145807.png">
 </a>
