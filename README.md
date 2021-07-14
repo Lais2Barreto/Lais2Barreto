@@ -1,15 +1,15 @@
 
 
  <h2 align="center">Hey, welcome to my page!👋</h2>
-
- Here's a bit about me:
-  
+ 
  <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
- I'm Laís, a padawan beginning my journey as a Front-End Developer :smile:
+ Here's a bit about me:
+
+ I'm Laís, a padawan beginning the journey as a Front-End Developer :smile:
 
 
-#### :telescope: Currently studying:
+<h2>:telescope: Currently studying:</h2>
 
   - HTML5   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -27,7 +27,7 @@
 
   - NodeJs  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-<h2 align="left">:palm_tree: My hobbies:</h2>
+<h2 align="left">:clapper: My hobbies:</h2>
 
 - Coding :computer: :purple_heart:
 - Reading books :books:
@@ -35,15 +35,15 @@
 - Drawing and painting :pen: :art:
 - Riding a bike :bicyclist:
 - Watching tv series & movies :tv:
-- Listening to music :headphones: :musical_note:
+- Listening to music and playing keyboard 🎹 :musical_note:
 
-<h2>Curiosities:</h2>
+<h2>:sparkles: Curiosities:</h2>
 
 - I love coffee ☕
 - My favorite color is purple :purple_heart:
 - My favorite food is sushi :sushi:
 - I'm a Star Wars and Star Trek fan :flying_saucer: 🌌
-- My favorite literary genres are fantasy and mistery :mag:
+- My favorite literary genres are fantasy and mistery :mage: :mag:
 - I'm eclectic but my favorite music tastes are rock, metal and synthwave :love_you_gesture:
 - I love playing videogames, specially rpg like the witcher and mass effect :joystick:
 - I also enjoy classic games like chess, domino and sudoku :chess_pawn: :game_die:
