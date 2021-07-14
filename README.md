@@ -10,6 +10,7 @@ I'm a padawan beginning my journey as a Front-End Developer :smile:
 - Bootstrap :milky_way:
 - JavaScript :milky_way:
 - React / Nextjs :milky_way:
+- NodeJs :milky_way:
 - Design UI / UX :milky_way:
  
 
