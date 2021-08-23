@@ -37,6 +37,7 @@
 - Watching tv series & movies :tv:
 - Listening to music and playing keyboard 🎹 :musical_note:
 
+<!-- This is top secret ;)
 <h2>:sparkles: Curiosities:</h2>
 
 - I love coffee ☕
@@ -51,6 +52,7 @@
 
 <h3 align="center">Live long and prosper and may the force be with you! :vulcan_salute:</h3>
 
+-->
 ### Feel free to add me! :wink:
 
 ### 📫 Other places you can contact me:
